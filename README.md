@@ -57,6 +57,6 @@ Before running the code, ensure that you have the following dependencies install
 * plotly
 * NLTK
 
-# Conclusion, 
+# Conclusion 
 
 The "Customer Insights and Recommendation System" is a comprehensive project that employs advanced techniques in classification prediction, image processing, and text analysis to gain a deep understanding of customer behavior. By integrating Decision Tree, Logistic Regression, and Random Forest models, along with image processing tools like EasyOCR and Python Imaging Library, and sentiment analysis using NLTK, the system provides a holistic approach to customer data analysis. The product recommendation system further enhances user experience by offering personalized suggestions based on individual behavior and preferences. Make sure to install the specified dependencies before running the code to ensure seamless functionality.
